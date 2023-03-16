@@ -24,6 +24,7 @@
 		200DFD6629C36D0200A9D787 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		200DFD6929C36D0200A9D787 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		200DFD6B29C36D0200A9D787 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		200DFD7129C37F4100A9D787 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		200DFD5129C36D0100A9D787 = {
 			isa = PBXGroup;
 			children = (
+				200DFD7129C37F4100A9D787 /* README.md */,
 				200DFD5C29C36D0100A9D787 /* UITextField-Sandbox */,
 				200DFD5B29C36D0100A9D787 /* Products */,
 			);
